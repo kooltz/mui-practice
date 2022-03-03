@@ -1,1 +1,0 @@
-# MUI Practice - Sign Up
