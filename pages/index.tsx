@@ -31,6 +31,12 @@ const layouts = () => {
       src: "/images/sign-in-side.png",
       href: "/sign-in-side",
     },
+    {
+      title: "Sticky Footer",
+      description: "Sticky Fotter Description",
+      src: "/images/sticky-footer.png",
+      href: "/sticky-footer",
+    },
   ];
 };
 
