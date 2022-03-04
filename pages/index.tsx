@@ -25,6 +25,12 @@ const layouts = () => {
       src: "/images/sign-up.png",
       href: "/sign-up",
     },
+    {
+      title: "Sign In Side",
+      description: "Sign In Side Description",
+      src: "/images/sign-in-side.png",
+      href: "/sign-in-side",
+    },
   ];
 };
 
