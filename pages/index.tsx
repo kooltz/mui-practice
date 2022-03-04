@@ -14,6 +14,12 @@ import Copyright from "../src/copyright";
 const layouts = () => {
   return [
     {
+      title: "Album",
+      description: "Album Description",
+      src: "/images/album.png",
+      href: "/album",
+    },
+    {
       title: "Sign In",
       description: "Sign In Description",
       src: "/images/sign-in.png",
