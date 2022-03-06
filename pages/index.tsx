@@ -43,6 +43,12 @@ const layouts = () => {
       src: "/images/sticky-footer.png",
       href: "/sticky-footer",
     },
+    {
+      title: "Pricing",
+      description: "Pricing Description",
+      src: "/images/pricing.png",
+      href: "/pricing",
+    },
   ];
 };
 
